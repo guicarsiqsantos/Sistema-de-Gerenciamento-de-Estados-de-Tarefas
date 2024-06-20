@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\context\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:context\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Context\\TaskContext.cs",
+              "RelativeDocumentMoniker": "Context\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Context\\TaskContext.cs",
+              "RelativeToolTip": "Context\\TaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:24:00.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:42:40.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:42:34.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T12:42:31.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
