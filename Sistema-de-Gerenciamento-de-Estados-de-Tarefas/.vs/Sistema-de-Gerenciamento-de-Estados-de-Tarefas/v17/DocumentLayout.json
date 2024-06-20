@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\migrations\\20240620135915_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:migrations\\20240620135915_teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\context\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:context\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\models\\enum\\taskstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:models\\enum\\taskstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|c:\\users\\aluno\\desktop\\sistema-de-gerenciamento-de-estados-de-tarefas\\sistema-de-gerenciamento-de-estados-de-tarefas\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030D26D0-EDF3-4A9F-B247-1884373EB817}|Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj|solutionrelative:models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,49 +47,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240620135915_teste.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Migrations\\20240620135915_teste.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240620135915_teste.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Migrations\\20240620135915_teste.cs",
+              "RelativeToolTip": "Migrations\\20240620135915_teste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:59:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:52:13.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:40:30.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskState.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Models\\ENUM\\TaskState.cs",
+              "RelativeDocumentMoniker": "Models\\ENUM\\TaskState.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Models\\ENUM\\TaskState.cs",
+              "RelativeToolTip": "Models\\ENUM\\TaskState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:35:08.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Models\\Tasks.cs",
+              "RelativeToolTip": "Models\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:34.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TaskContext.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Context\\TaskContext.cs",
               "RelativeDocumentMoniker": "Context\\TaskContext.cs",
               "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Context\\TaskContext.cs",
               "RelativeToolTip": "Context\\TaskContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T13:24:00.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T13:24:00.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:42:40.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T12:42:34.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-20T12:42:31.934Z"
             }

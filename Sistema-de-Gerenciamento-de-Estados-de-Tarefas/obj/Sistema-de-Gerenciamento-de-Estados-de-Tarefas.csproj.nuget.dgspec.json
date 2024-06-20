@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\source\\repos\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\source\\repos\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj",
         "projectName": "Sistema-de-Gerenciamento-de-Estados-de-Tarefas",
-        "projectPath": "C:\\Users\\Aluno\\source\\repos\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\source\\repos\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\Sistema-de-Gerenciamento-de-Estados-de-Tarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,24 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
