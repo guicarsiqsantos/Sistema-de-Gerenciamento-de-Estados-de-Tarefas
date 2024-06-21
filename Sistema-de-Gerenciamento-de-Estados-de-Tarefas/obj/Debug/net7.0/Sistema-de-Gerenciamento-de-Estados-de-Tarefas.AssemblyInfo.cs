@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema-de-Gerenciamento-de-Estados-de-Tarefas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eeabde6efd457bf1ba3287ca9517393083fdde5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb7eb1ba905c59aeec960b7ade68cfb65187efa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema-de-Gerenciamento-de-Estados-de-Tarefas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema-de-Gerenciamento-de-Estados-de-Tarefas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

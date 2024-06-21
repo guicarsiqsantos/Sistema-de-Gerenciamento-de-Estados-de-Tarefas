@@ -20,7 +20,7 @@ namespace Sistema_de_Gerenciamento_de_Estados_de_Tarefas.Controllers
 		[HttpPost]
 		public async Task<ActionResult<Tasks>> PostTask(Tasks tasks)
 		{
-			tasks.State = TaskState.Created; // Define o estado inicial como "Created"
+			tasks.State = TaskState.Created;
 			_context.Tasks.Add(tasks);
 			await _context.SaveChangesAsync();
 
@@ -50,7 +50,7 @@ namespace Sistema_de_Gerenciamento_de_Estados_de_Tarefas.Controllers
 				return NotFound();
 			}
 
-			if (tasks.State == TaskState.Created) // Apenas permite alterar o estado se estiver "Created"
+			if (tasks.State == TaskState.Created)
 			{
 				tasks.State = TaskState.InProgress;
 				_context.Entry(tasks).State = EntityState.Modified;
@@ -58,7 +58,7 @@ namespace Sistema_de_Gerenciamento_de_Estados_de_Tarefas.Controllers
 			}
 			else
 			{
-				return BadRequest("Task cannot be started from its current state.");
+				return BadRequest("A tarefa não pode ser iniciada a partir do seu estado atual.");
 			}
 
 			return NoContent();
@@ -74,7 +74,7 @@ namespace Sistema_de_Gerenciamento_de_Estados_de_Tarefas.Controllers
 				return NotFound();
 			}
 
-			if (tasks.State == TaskState.InProgress) // Apenas permite alterar o estado se estiver "InProgress"
+			if (tasks.State == TaskState.InProgress)
 			{
 				tasks.State = TaskState.Completed;
 				_context.Entry(tasks).State = EntityState.Modified;
@@ -82,7 +82,7 @@ namespace Sistema_de_Gerenciamento_de_Estados_de_Tarefas.Controllers
 			}
 			else
 			{
-				return BadRequest("Task cannot be completed from its current state.");
+				return BadRequest("A tarefa não pode ser completada a partir do seu estado atual.");
 			}
 
 			return NoContent();
@@ -98,7 +98,7 @@ namespace Sistema_de_Gerenciamento_de_Estados_de_Tarefas.Controllers
 				return NotFound();
 			}
 
-			if (tasks.State == TaskState.Created || tasks.State == TaskState.InProgress) // Permite cancelar de "Created" ou "InProgress"
+			if (tasks.State == TaskState.Created || tasks.State == TaskState.InProgress)
 			{
 				tasks.State = TaskState.Canceled;
 				_context.Entry(tasks).State = EntityState.Modified;
@@ -106,7 +106,7 @@ namespace Sistema_de_Gerenciamento_de_Estados_de_Tarefas.Controllers
 			}
 			else
 			{
-				return BadRequest("Task cannot be canceled from its current state.");
+				return BadRequest("A tarefa não pode ser cancelada a partir do seu estado atual.");
 			}
 
 			return NoContent();
