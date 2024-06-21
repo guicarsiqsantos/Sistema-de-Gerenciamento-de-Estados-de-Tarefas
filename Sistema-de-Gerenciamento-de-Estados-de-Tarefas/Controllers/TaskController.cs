@@ -58,7 +58,7 @@ namespace Sistema_de_Gerenciamento_de_Estados_de_Tarefas.Controllers
 			}
 			else
 			{
-				return BadRequest("A tarefa não pode ser iniciada a partir do seu estado atual.");
+				return BadRequest("A tarefa não pode ser iniciada.");
 			}
 
 			return NoContent();
@@ -82,7 +82,7 @@ namespace Sistema_de_Gerenciamento_de_Estados_de_Tarefas.Controllers
 			}
 			else
 			{
-				return BadRequest("A tarefa não pode ser completada a partir do seu estado atual.");
+				return BadRequest("A tarefa não pode ser completada.");
 			}
 
 			return NoContent();
@@ -106,7 +106,7 @@ namespace Sistema_de_Gerenciamento_de_Estados_de_Tarefas.Controllers
 			}
 			else
 			{
-				return BadRequest("A tarefa não pode ser cancelada a partir do seu estado atual.");
+				return BadRequest("A tarefa não pode ser cancelada.");
 			}
 
 			return NoContent();
